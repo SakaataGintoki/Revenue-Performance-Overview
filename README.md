@@ -14,3 +14,24 @@ Monthly Peak: December shows the highest revenue at ₹3.75 Cr.
 State-wise Leader: Maharashtra contributes ₹4.17 Cr, followed by Delhi and Telangana.
 
 Tax Collection: Highest in Q4 at ₹2.73 Cr.
+
+# clean process
+Data Cleaning Steps
+Split State & Company using LEFT, FIND, and RIGHT
+
+Extract Month with MONTH(date)
+
+Create Quarter using CHOOSE + MATCH for Indian fiscal year (starts in April)
+
+Use VLOOKUP to fetch related info (state codes, tax rates, etc.)
+
+Text cleaning with REPLACE, FIND, LEN as needed
+
+# Visualizations
+Bar Chart → Company-wise or State-wise revenue
+
+Line Chart → Monthly revenue trend
+
+Treemap → State-wise revenue distribution
+
+Waterfall → Quarter-wise revenue or tax flow
