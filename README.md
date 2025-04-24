@@ -1,7 +1,7 @@
 # Revenue-Performance-Overview
 ![image](https://github.com/user-attachments/assets/af5ad4d1-b0a6-4b96-8f84-6fc02b6ed944)
 # Business Revenue Dashboard Summary
-This Power BI dashboard provides a comprehensive overview of Enertia Worldwide Ltd's revenue performance across multiple dimensions:
+This EXCEL dashboard provides a comprehensive overview of Worldwide PVT Ltd's revenue performance across multiple dimensions:
 
 Total Revenue: ₹19.58 Cr, with ₹10.46 Cr from IGST (interstate), ₹4.71 Cr domestic, and ₹1.18 Cr classified as others.
 
